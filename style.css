@@ -1,0 +1,43 @@
+.fixed-top {
+	position: fixed;
+	overflow: hidden;
+	width: 100%;
+}
+
+.content {
+	overflow: auto;
+}
+
+.jumbotron {
+
+	margin-top: 20px;
+	margin-bottom: 0;
+	background-color: #F0FFF0;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.navbar {
+	border-color: #F0FFF0;
+	background-color: #F0FFF0;
+}
+
+.btn-default {
+	background-color: #FFFAFA;
+}
+
+.spacing{
+	visibility: hidden;
+}
+
+
+
+body {
+	background-color: white;
+}
+
+h4 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
